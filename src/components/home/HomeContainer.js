@@ -12,7 +12,7 @@ const HomeContainer = () => {
 
 const LoggedInWarning = (WrappedComponent) => {
     return props => (
-        <> {props.isAdmin ? <WrappedComponent {...props} /> : <p>You need to be logged in to see this page</p>}
+        <> {props.isAdmin ? <WrappedComponent {...props} /> : <p>You need to be logged in to see this page!</p>}
         </>
     )
 }
