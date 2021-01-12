@@ -1,0 +1,13 @@
+.Header {
+    background-color: #17252a;
+    z-index: 200;
+}
+
+#navbarText {
+    color: #feffff;
+    cursor: pointer;
+}
+
+#navbarText:hover {
+    color: #3a63ad
+}

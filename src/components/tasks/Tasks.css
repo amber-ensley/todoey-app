@@ -1,0 +1,28 @@
+.Tasks {
+    margin: 15px;
+}
+
+.Tasks h4 {
+    color: #ccdbdb;
+}
+
+.form-content {
+    position: fixed;
+    top: 0;
+    left: auto;
+    right: auto;
+    width: 60vw;
+    color: #ffffff;
+    z-index: 200;
+    border-radius: 10px
+}
+
+.Task {
+    background-color: #2F3437;
+    color: #ccdbdb;
+    border-radius: 0px;
+}
+
+.task-link {
+    color: #ccdbdb;
+}
